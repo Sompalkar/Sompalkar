@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Som Palkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Swiggy(Food Delivery Application)**
+- 🔭 I’m currently working on **Real Time Chat APP ( WebSockets)**
 
 - 🌱 I’m currently learning **Nodejs, Express, MongoDB**
 
