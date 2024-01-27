@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Som Palkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://i.imgur.com/2y4mcjC.gif" alt="image"/>
-
+<div align ="center">
+<img  src="https://i.imgur.com/2y4mcjC.gif" alt="Shekhar's Avatar" height ="150"  >
+</div>
 - 🔭 I’m currently working on **DevOps**
 
 - 🌱 I’m currently learning **DevOps**
