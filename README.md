@@ -12,7 +12,7 @@ ___
 - 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **DevOps**
-
+  
 - 🤝 I’m looking for help with **DevOps and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sompalkar](https://github.com/Sompalkar)
@@ -23,8 +23,8 @@ ___
 
 - 📫 How to reach me **palkarsom1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dcPCEseu1O9ddfjUrCPeTbq6u2xW6NLVM8SsATZl2Uk/edit?usp=sharing](https://docs.google.com/document/d/1dcPCEseu1O9ddfjUrCPeTbq6u2xW6NLVM8SsATZl2Uk/edit?usp=sharing)
-
+- 📄 Know about my experiences [https://docs.google.com/document/d/1dcPCEseu1O9ddfjUrCPeTbq6u2xW6NLVM8SsATZl2Uk/edit?usp=sharing]
+- 
 - ⚡ Fun fact **I think I'm funny.**
 ___
 <div align="center">
