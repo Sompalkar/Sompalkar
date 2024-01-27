@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div align ="center">
-<img  src="https://i.imgur.com/2y4mcjC.gif" alt="Shekhar's Avatar" height ="150"  >
+<img src="https://miro.medium.com/v2/resize:fit:800/1*Wwi0eylMFr55uIeX_8j8Ow.gif" alt="Shekhar's Avatar" height ="210" width="500" >
 </div>
+
 - 🔭 I’m currently working on **DevOps**
 
 - 🌱 I’m currently learning **DevOps**
