@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **DevOps**
-
+  
 - 🤝 I’m looking for help with **DevOps and ML**
   
 - 💬 Ask me about **DevOps, Cloud, React, JavaScript.**
@@ -21,8 +21,17 @@
 
 - 📝 I regularly write articles on [https://medium.com/@palkarsom1](https://medium.com/@palkarsom1)
 
+<<<<<<< main
 - 📄 Know about my experiences in my [Resume](https://docs.google.com/document/d/1dcPCEseu1O9ddfjUrCPeTbq6u2xW6NLVM8SsATZl2Uk/edit?usp=sharing).
 
+=======
+- 💬 Ask me about **DevOps, Cloud, React, JavaScript.**
+
+- 📫 How to reach me **palkarsom1@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1dcPCEseu1O9ddfjUrCPeTbq6u2xW6NLVM8SsATZl2Uk/edit?usp=sharing]
+- 
+>>>>>>> main
 - ⚡ Fun fact **I think I'm funny.**
 <hr>
 <div align="center">
