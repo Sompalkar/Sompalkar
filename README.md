@@ -7,13 +7,13 @@
 
 ___
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working on **Realtime Code Editor**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DSA and ML**
 
-- 👯 I’m looking to collaborate on **DevOps**
+- 👯 I’m looking to collaborate on **ML**
   
-- 🤝 I’m looking for help with **DevOps and ML**
+- 🤝 I’m looking for help with **DSA and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sompalkar](https://github.com/Sompalkar)
 
